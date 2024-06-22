@@ -1,0 +1,16 @@
+body::before{
+    display: block;
+    content: "";
+    height: 60px;
+}
+
+@media (min-width: 992px) {
+    .news-input {
+        width: 50%;
+    }
+}
+
+.col-md-6{
+    margin-left: 100px;
+}
+
